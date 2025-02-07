@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pU35HZeqPTBP3mS6LdI9KPZJIcy6lpo/JZvRNmsz5os=",
+  "Source": "CryptoQuoteApp",
+  "BasePath": "_content/CryptoQuoteApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

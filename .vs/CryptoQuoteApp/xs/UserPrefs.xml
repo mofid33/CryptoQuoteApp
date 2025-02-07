@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{D1ABD356-8855-4FF2-B76D-96719DF2F84A}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/amirhossein/Projects/CryptoQuoteApp/CryptoQuoteApp/Repositories/CryptoService.cs" relfile="CryptoQuoteApp/Repositories/CryptoService.cs" line="63" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="CryptoQuoteApp.Tests/CryptoServiceTests.cs">
+    <Files>
+      <File FileName="CryptoQuoteApp/Models/CryptoQuote.cs" />
+      <File FileName="CryptoQuoteApp/Repositories/ICryptoService.cs" />
+      <File FileName="CryptoQuoteApp/Repositories/CryptoService.cs" Line="34" Column="45" />
+      <File FileName="CryptoQuoteApp/Program.cs" />
+      <File FileName="CryptoQuoteApp/Controllers/CryptoController.cs" />
+      <File FileName="CryptoQuoteApp.Tests/EmptyClass.cs" Line="179" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CryptoQuoteApp" expanded="True">
+            <Node name="CryptoQuoteApp.Tests" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CryptoQuoteApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
